@@ -1,1 +1,3 @@
 # neural-network-challenge-1
+
+In this challenge we are given a csv to help predict, through the use of a neural network, the likelihood that the applicant will pay back their loan. First we will prepare the data for use on a neural network model by defining our features and target feature and then spliting and applying standardscalar to the features. Next we will compile and evaluate a model using a neural network to be used for our predictions. Once the model is made we will use it to predict loan repayment success and generate a classification report with the predicitions and testing data. Finally there were a few questions to answer about a hypothetical recommendation system and how i would go about creating it and what concerns there would be with my chosen data.
